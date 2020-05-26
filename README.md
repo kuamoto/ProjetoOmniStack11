@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" src=".github/bethehero.svg" width="200px" />
+    <img alt="BeTheHero" src="https://github.com/kuamoto/ProjetoOmniStack11/blob/master/mobile/assets/icon.png" width="50px" />
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://github.com/kuamoto/ProjetoOmniStack11/blob/master/mobile/assets/icon.png" width="10%">
 </p>
 
 ## :rocket: Tecnologias
